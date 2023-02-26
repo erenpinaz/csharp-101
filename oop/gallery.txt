@@ -1,0 +1,2 @@
+Car,Ford,Mustang,Black,240
+Truck,Scania,V8,Red,15000
